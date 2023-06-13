@@ -1,0 +1,14 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #d8dfe8;
+}
+
+header {
+  padding: 40px 40px;
+}
+
+.input-area input {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: auto;
+}
