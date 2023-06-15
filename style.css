@@ -11,4 +11,13 @@ header {
   font-size: 30px;
   font-weight: bold;
   margin-top: auto;
+  border: 0;
+  background-color: #d8dfe8;
+  background-origin: padding-box;
+  color: #0a3871;
+  outline: none;
+}
+
+::placeholder {
+  color: #0a3871;
 }
